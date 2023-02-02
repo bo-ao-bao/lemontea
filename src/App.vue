@@ -36,8 +36,11 @@ ul{
 
 #app {
   width: 100%;
+  max-width: 1248px;
   padding: 0 2%;
 
+  margin-left: auto;
+  margin-right: auto;
 
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;

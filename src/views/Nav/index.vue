@@ -35,7 +35,7 @@ export default {
   height: 100px;
 
   border: 4px solid #00a1d6;
-  border-radius: 18px;
+  border-radius: 40px;
 
   display: flex;
   flex-direction: row;
@@ -45,13 +45,13 @@ export default {
 
 }
 .nav_logo{
-  font-size: 3rem;
+  font-size: 3em;
   font-weight:bold;
 }
 .nav_link{
-  width: 50%;
+  width: 40%;
 
-  font-size: 20px;
+  font-size: 1.2em;
 
   &>ul{
     display: flex;
